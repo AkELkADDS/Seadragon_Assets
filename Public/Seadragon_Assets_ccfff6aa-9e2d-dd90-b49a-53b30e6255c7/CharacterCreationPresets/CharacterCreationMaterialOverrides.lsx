@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="CharacterCreationMaterialOverrides">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationMaterialOverride">
+                    <attribute id="ActiveMaterialPresetUUID" type="guid" value="bb1b4a90-1f19-41ef-9a8b-5f7a15596d1a"/>
+                    <attribute id="InactiveMaterialPresetUUID" type="guid" value="f03b33ae-5d47-4cb5-80bc-ea06a3c55c96"/>
+                    <attribute id="MaterialType" type="FixedString" value="Passive"/>
+                    <attribute id="Name" type="FixedString" value="DGB_EL_A_Top_Pearl_FC"/>
+                    <attribute id="SourceMaterialUUID" type="FixedString" value="d731e00d-db3f-b9ee-47f2-20f46c5f84aa"/>
+                    <attribute id="TargetMaterialUUID" type="FixedString" value="64607432-c82f-d0ae-12de-8fd6dc8f56a6"/>
+                    <attribute id="UUID" type="guid" value="c12bcf96-3b42-4d39-b163-35622c5077b4"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

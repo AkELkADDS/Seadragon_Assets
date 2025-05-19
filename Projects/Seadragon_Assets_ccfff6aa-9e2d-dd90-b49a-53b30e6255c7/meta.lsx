@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="ccfff6aa-9e2d-dd90-b49a-53b30e6255c7"/>
+            <attribute id="Name" type="LSString" value="Seadragon_Assets"/>
+            <attribute id="UUID" type="LSString" value="caf9e440-da8d-282a-0a3c-0fb0e7d200bc"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

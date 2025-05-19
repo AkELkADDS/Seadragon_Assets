@@ -1,0 +1,760 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+   Mon 05/19/2025  7:40:34.29 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMAmber.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMBlue.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMCyanViolet.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMGrassGreen.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMPink.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMPinkPeach.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMViolet.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMWhite.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccFrills\DGB_EL_A_Acc_Pearl_Frills_MSKA.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_DB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersCoral_BM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersCoral_GM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersCoral_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersCoral_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersCoral_PM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersDeer_BM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersDeer_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersDeer_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersDeer_PM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Jaw\DGB_EL_A_Jaw_Pearl_FB_CTLO.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Jaw\DGB_EL_A_Jaw_Pearl_FB_DMSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Jaw\DGB_EL_A_Jaw_Pearl_FB_HMVY.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Jaw\DGB_EL_A_Jaw_Pearl_FB_MSK.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Jaw\DGB_EL_A_Jaw_Pearl_FB_NM.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\Icons\CCIconPearlAssetsAtlas.dds 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\00e30b1e-1c49-940e-08ee-680a20cf6f4a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0297344a-1204-b208-97fe-5abff6205260.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\07afd115-3d02-f4f2-49a8-8fc782f061f5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0911acda-c603-24f5-645e-5e780bed6a90.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0984cabc-2e6c-770f-bbc3-02d833c78741.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0a4df6d6-fd26-c001-60ca-6fa4980b95ed.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0d2e1dd0-8226-8b71-de60-573247f7c64d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0d57cd47-ebf1-426e-ad84-0dcb5f55c0c3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\128cfb01-e282-d8ff-8c12-0e2f238e2529.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\13f36082-9136-c062-5754-5584244a9fca.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\14424540-7682-edbe-a5c9-622d8e2bd526.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1455b79f-cc58-409b-8a24-52552e9274cc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\145b708f-805f-c379-8270-33e2caefc20f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\156bc1d8-3fd5-d4a0-86ba-e85b21098db4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\15bc1233-ccde-4885-0ffe-8d251eab4c5b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\172add23-0dd5-1379-5da8-57fcb5a7715a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1ae3fc4b-6277-8d7b-fcf0-b401d6816080.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1b566d29-d2ff-3346-8c3a-694203e31998.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1b92d9b1-546f-4729-1d5b-058fc9b4fa50.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1c00d68d-c875-5d4e-a63c-f6388cc6c60c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1c8cbce1-6313-5f59-0b71-66dc0008c270.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1daa08e8-0c61-6162-f129-512cd4a33cf6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\22d1adba-9bfb-e052-3f0c-18ae88a4b2f6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\235aaa84-bca9-6ad5-bd91-579de4e89040.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\26a8d54e-af7f-1c22-3483-1d36f58fc2b6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\271f712a-99f3-2fd7-abfd-8b976613f71f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\2908a72c-cdfc-d2a1-aa47-ba3041b7b983.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\2c38fc11-71ab-341a-81bd-330d862c3427.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\2cdac851-b505-b067-9523-e9c6087e5a34.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\32c8ac4b-0c63-6a1b-3c0f-f56b2e3ea338.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\32f4c304-c2de-4fc2-9697-96e991e48214.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\34b2091b-9ef6-4ef2-4313-c9b4b4e0a06d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\39668eed-0681-a5ee-6533-814e0cb77a31.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\39c412d9-43b3-dd7d-7eed-3eec9b4ab608.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\3aac0fd5-1295-5d51-7dbf-c99010a94cff.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\3f6b463d-122c-622a-fbb4-4bcded4d8609.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\3fe019b2-f41b-4c13-89e1-0405a4a3a5ca.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\3ff79eb6-7f61-1987-22ff-04f3591dee65.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\40ee9d7d-6980-1589-b8c8-40618d0e8bff.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\42a055e8-6309-04a0-545d-c2df72d7928c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4414fe3e-595c-9ec9-0cfc-519d91b5e2ab.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4906cf45-515e-e0d4-35ea-9f037e977e7c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\495461e6-6c12-459b-1fef-10b85534f053.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4a217b4e-4cff-0678-a9fd-ae65677f5384.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4ab1c8a3-9050-a109-a72c-06604facc0c0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4bc12b43-f5c6-8f44-b27b-e27b3703152a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4c3c4b61-2082-41ca-95f3-4c7bd86fe94c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\5131c0e1-a492-ea03-431e-5bdcb0572242.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\525ce764-7437-9b58-67fd-9eea421ead3f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\540d1cb9-fa93-f722-f3a7-7603af7a3ab4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\5552c3d6-c693-b467-4b59-7f3c4c0e5acd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\55ac1c9f-d25e-25d2-1e11-70e7bd7382b3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\566b6ade-d505-acf1-0be6-7b4f18b34536.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\58504038-84bc-57eb-6807-8d896e570f7a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\5d42f572-95ce-b8e4-27a3-5dc97ceffd49.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\5fa2d3a4-e154-9fac-3b77-2a4b66cfbc95.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\60d05018-0560-79ba-b3c1-4508935e98cb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\60d44ff8-6c29-89a3-3da0-40517c048a73.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\61f7b344-a63f-2a47-8d66-3f6253edb687.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\6266030f-e52d-6a45-5b74-1042c84b7695.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\64607432-c82f-d0ae-12de-8fd6dc8f56a6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\64afd9fc-caae-3717-5f4b-9791f149ba1b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\64f9ff31-e3c3-6dd6-01e4-ab894943b77d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\66d1efdc-0f19-6839-3ef4-38f2f8c91619.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\68ea6da0-9cec-9317-3d8a-0563db932961.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\691beb7f-25e3-49b5-71bc-0bf5076a02ba.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\698350cb-f6a9-52e2-c2e7-66e40d98c899.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\6b6000e1-25c2-a1b1-566e-1d12f3a26bac.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\6d0ea1ed-ec97-8d1c-f2b5-794ba6c8c76c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\7162bf2d-e1ef-6943-f96c-46f2f61a4efc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\74b6eef4-acfe-605b-057c-7400c71369ab.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\7592c2cb-6332-9623-2b6c-da1bae747c99.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\76964a04-8736-4406-77d9-7dd8d2f26388.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\7d00880f-f993-fd2b-dd5c-c9eec0f5238a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\7d470c23-23ad-7994-3229-3b3d12522867.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\7fc7080c-9f95-1815-859c-7c0109d6f8b4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\80525833-060a-5ece-cfc6-f169057880fa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\83cd59e4-b738-1802-c05b-3830601f7d64.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\86f6a5dd-9fc3-fbf6-d176-89d0a031200f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\8844b35f-9f46-e7d9-0adc-1f7489ad5bd6.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\88daba9a-7190-e8d7-114b-3104f034cdf7.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\8ac30a02-9147-7087-fb94-f5964c0df37e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\8e6b6187-4472-4e82-b965-2ac2b0fde721.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\90c3fffd-fac1-08ab-91c8-f481d663888d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\90cbde7d-52c9-daea-953b-90f718d744c1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9228e372-81e7-68aa-1c63-ab88fdeb14b4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\937958e2-0ff8-a792-af5a-a548c12a8871.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9452b78c-de06-223e-aa82-8871af5c06b1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9716b6d1-34b5-276d-c348-0c58568cd241.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\983de8b7-069a-71e7-cdc8-9f804cc44b1f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\98e7bc1a-e1ea-b80e-4f08-7dad95185f44.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9916c520-96c3-05ac-4ea3-7b3026d60ff1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9c2dbec5-500d-1b52-6228-052d66a76151.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9ef6b508-44ab-c8d6-71c1-0dfbc9651149.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\a05fa81e-1a46-6249-d3f9-edab81f5f1bf.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\a07bcf8b-083a-0ad1-7c81-dacf3b1c8bfe.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\a9aca073-6865-0261-4185-7351339fae92.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\ac12c9ec-94a3-6a4c-a018-13629c05bf60.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\af663dff-5460-ec70-df6a-0fc6ce26c61e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\b0df8dc1-a425-4e1f-95c7-bde3085a1495.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\b1baf5a3-0e7f-67d5-bfbd-7e5e2a0f03bd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\b1e84342-33ef-cf1a-df7d-0757abf4cf77.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\bbbb3a70-e7c3-a6fb-2a77-c8f7c48aa722.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\bd937834-5b1a-b332-1c09-3293ffc6e581.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\bda1749a-e13f-8b62-d337-867cabd93ba2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\c12cbbc7-5e07-48bf-53f1-ddd5b08f011e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\c236d6b5-c8cf-8841-b057-1fa55e968e06.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\c602efd7-02e2-8070-5fb9-f43d335f8753.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\c79d580c-c9df-8773-0280-688d1c401c67.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\c7d46de1-b076-b0cc-1b9c-f2f43d4e897f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\ca194ffd-664c-00e4-e643-8f172b1f152b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\cb6b3fbf-6d90-032a-3659-ed02ec6f1b4e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\cb9cb385-8bf6-39f8-0c67-1331ca7821fb.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\ccd5d738-bb6b-8246-5958-7eb38ca8aab4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\ce9e94b6-a571-894f-efb7-5f7a01549809.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\cf008cb8-b38f-ca17-7de7-ec32803e8aee.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d10c415f-3576-daeb-7d59-0608382faf6a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d11a541d-1d9d-4471-bbd2-044b4050245e.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d45eed15-5410-e3dc-bf3d-e04266dfdc37.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d613491b-1d0e-b813-e469-54359b6086e5.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d6adc86c-3aa0-8f22-ef04-085f60934d41.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d731e00d-db3f-b9ee-47f2-20f46c5f84aa.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\dc439fec-9021-4e49-98f9-3f2fb6176d53.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\de96485a-4f30-2437-6735-4205b7ff96b8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\dfad175f-167b-7228-09b9-6307184df8e4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\e06f5534-73ae-1f56-90bb-4a94ee1b417a.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\e10ed714-7a95-479d-85e2-0c92b84be7b8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\e4e17807-a5d7-9a50-9520-e9b5c7bd4e85.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\e86b4af7-beee-1570-ce19-c5650bf5b854.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\eeadf229-77cf-1a19-cb6f-48bb38d9e571.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\f0e62ace-e429-7b63-ef46-13c7f7936281.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\fe3399fb-9620-41fe-b423-bf0ba6017391.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\fee7f37e-36ee-b188-6fe0-ef22b46ea8c0.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\ff9ba67c-4f44-ce72-fe71-2dbbf31517ee.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\GUI\CCIconPearlAssetsAtlas.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Pearl\Tail\DGB_EL_FZ_Tail_Pearl_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Pearl\Tail\DGB_EL_FZ_Tail_Pearl_A.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FB_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FB_Top_Pearl_AntlersFrills.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FC_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FD_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FE_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FB_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FB_Jaw_Pearl_CoralRFrills.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FC_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FC_Jaw_Pearl_CoralRFrills.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FD_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FD_Jaw_Pearl_CoralRFrills.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FE_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FE_Jaw_Pearl_CoralRFrills.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Pearl\Tail\DGB_EL_MZ_Tail_Pearl_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Pearl\Tail\DGB_EL_MZ_Tail_Pearl_A.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MD_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_ME_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MF_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MG_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MD_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MD_Jaw_Pearl_CoralRFrills.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_ME_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_ME_Jaw_Pearl_CoralRFrills.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MF_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MF_Jaw_Pearl_CoralRFrills.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MG_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MG_Jaw_Pearl_CoralRFrills.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7: 196 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Pearl\Tail\DGB_EL_FZ_Tail_Pearl_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FB_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FC_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FD_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FE_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FB_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FC_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FD_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FE_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Pearl\Tail\DGB_EL_MZ_Tail_Pearl_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MD_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_ME_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MF_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MG_Top_Pearl_AntlersFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MD_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_ME_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MF_Jaw_Pearl_CoralRFrills.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MG_Jaw_Pearl_CoralRFrills.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7: 18 
+ 
+[LOG] Total files found across all folders: 222 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 to Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[DEBUG] Using destination: Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:40:38 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\
+     Dest : C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     694	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\meta.lsx100%  
+	    New File  		   5.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\thumbnail.png  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :    5.08 m    5.08 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           591895000 Bytes/sec.
+   Speed :           33868.503 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:40:38 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Editor\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 to "Editor\Mods"\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[DEBUG] Using destination: Editor\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:40:39 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\
+     Dest : C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Editor\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  129815	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		    1215	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   127.9 k   127.9 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           131030000 Bytes/sec.
+   Speed :            7497.596 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:40:39 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 to Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[DEBUG] Using destination: Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:40:41 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\
+     Dest : C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    5633	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\meta.lsx100%  
+	    New File  		   5.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\GUI\metadata.lsf100%  
+	    New File  		    9909	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :    5.09 m    5.09 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2671522000 Bytes/sec.
+   Speed :           152865.715 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:40:41 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 to Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[DEBUG] Using destination: Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:40:43 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\
+     Dest : C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   89201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		    1115	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
+	    New File  		    6605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\GUI\CCIconPearlAssetsAtlas.lsx100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\00e30b1e-1c49-940e-08ee-680a20cf6f4a.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0297344a-1204-b208-97fe-5abff6205260.lsf100%  
+	    New File  		    1655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\07afd115-3d02-f4f2-49a8-8fc782f061f5.lsf100%  
+	    New File  		    1679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0911acda-c603-24f5-645e-5e780bed6a90.lsf100%  
+	    New File  		    2886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0984cabc-2e6c-770f-bbc3-02d833c78741.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0a4df6d6-fd26-c001-60ca-6fa4980b95ed.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0d2e1dd0-8226-8b71-de60-573247f7c64d.lsf100%  
+	    New File  		    2826	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\0d57cd47-ebf1-426e-ad84-0dcb5f55c0c3.lsf100%  
+	    New File  		    1685	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\128cfb01-e282-d8ff-8c12-0e2f238e2529.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\13f36082-9136-c062-5754-5584244a9fca.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\14424540-7682-edbe-a5c9-622d8e2bd526.lsf100%  
+	    New File  		    2826	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1455b79f-cc58-409b-8a24-52552e9274cc.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\145b708f-805f-c379-8270-33e2caefc20f.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\156bc1d8-3fd5-d4a0-86ba-e85b21098db4.lsf100%  
+	    New File  		    6335	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\15bc1233-ccde-4885-0ffe-8d251eab4c5b.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\172add23-0dd5-1379-5da8-57fcb5a7715a.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1ae3fc4b-6277-8d7b-fcf0-b401d6816080.lsf100%  
+	    New File  		    1649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1b566d29-d2ff-3346-8c3a-694203e31998.lsf100%  
+	    New File  		    1682	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1b92d9b1-546f-4729-1d5b-058fc9b4fa50.lsf100%  
+	    New File  		    1664	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1c00d68d-c875-5d4e-a63c-f6388cc6c60c.lsf100%  
+	    New File  		    1655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1c8cbce1-6313-5f59-0b71-66dc0008c270.lsf100%  
+	    New File  		    3088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\1daa08e8-0c61-6162-f129-512cd4a33cf6.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\22d1adba-9bfb-e052-3f0c-18ae88a4b2f6.lsf100%  
+	    New File  		    1650	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\235aaa84-bca9-6ad5-bd91-579de4e89040.lsf100%  
+	    New File  		    1647	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\26a8d54e-af7f-1c22-3483-1d36f58fc2b6.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\271f712a-99f3-2fd7-abfd-8b976613f71f.lsf100%  
+	    New File  		    1595	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\2908a72c-cdfc-d2a1-aa47-ba3041b7b983.lsf100%  
+	    New File  		    6330	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\2c38fc11-71ab-341a-81bd-330d862c3427.lsf100%  
+	    New File  		    3088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\2cdac851-b505-b067-9523-e9c6087e5a34.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\32c8ac4b-0c63-6a1b-3c0f-f56b2e3ea338.lsf100%  
+	    New File  		    2827	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\32f4c304-c2de-4fc2-9697-96e991e48214.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\34b2091b-9ef6-4ef2-4313-c9b4b4e0a06d.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\39668eed-0681-a5ee-6533-814e0cb77a31.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\39c412d9-43b3-dd7d-7eed-3eec9b4ab608.lsf100%  
+	    New File  		    1682	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\3aac0fd5-1295-5d51-7dbf-c99010a94cff.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\3f6b463d-122c-622a-fbb4-4bcded4d8609.lsf100%  
+	    New File  		    2827	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\3fe019b2-f41b-4c13-89e1-0405a4a3a5ca.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\3ff79eb6-7f61-1987-22ff-04f3591dee65.lsf100%  
+	    New File  		    1682	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\40ee9d7d-6980-1589-b8c8-40618d0e8bff.lsf100%  
+	    New File  		    1650	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\42a055e8-6309-04a0-545d-c2df72d7928c.lsf100%  
+	    New File  		    6331	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4414fe3e-595c-9ec9-0cfc-519d91b5e2ab.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4906cf45-515e-e0d4-35ea-9f037e977e7c.lsf100%  
+	    New File  		    1665	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\495461e6-6c12-459b-1fef-10b85534f053.lsf100%  
+	    New File  		    1682	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4a217b4e-4cff-0678-a9fd-ae65677f5384.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4ab1c8a3-9050-a109-a72c-06604facc0c0.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4bc12b43-f5c6-8f44-b27b-e27b3703152a.lsf100%  
+	    New File  		    3088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\4c3c4b61-2082-41ca-95f3-4c7bd86fe94c.lsf100%  
+	    New File  		    1679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\5131c0e1-a492-ea03-431e-5bdcb0572242.lsf100%  
+	    New File  		    1677	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\525ce764-7437-9b58-67fd-9eea421ead3f.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\540d1cb9-fa93-f722-f3a7-7603af7a3ab4.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\5552c3d6-c693-b467-4b59-7f3c4c0e5acd.lsf100%  
+	    New File  		    1682	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\55ac1c9f-d25e-25d2-1e11-70e7bd7382b3.lsf100%  
+	    New File  		    1655	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\566b6ade-d505-acf1-0be6-7b4f18b34536.lsf100%  
+	    New File  		    1652	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\58504038-84bc-57eb-6807-8d896e570f7a.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\5d42f572-95ce-b8e4-27a3-5dc97ceffd49.lsf100%  
+	    New File  		    3085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\5fa2d3a4-e154-9fac-3b77-2a4b66cfbc95.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\60d05018-0560-79ba-b3c1-4508935e98cb.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\60d44ff8-6c29-89a3-3da0-40517c048a73.lsf100%  
+	    New File  		    3088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\61f7b344-a63f-2a47-8d66-3f6253edb687.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\6266030f-e52d-6a45-5b74-1042c84b7695.lsf100%  
+	    New File  		   14000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\64607432-c82f-d0ae-12de-8fd6dc8f56a6.lsf100%  
+	    New File  		    1680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\64afd9fc-caae-3717-5f4b-9791f149ba1b.lsf100%  
+	    New File  		    3085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\64f9ff31-e3c3-6dd6-01e4-ab894943b77d.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\66d1efdc-0f19-6839-3ef4-38f2f8c91619.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\68ea6da0-9cec-9317-3d8a-0563db932961.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\691beb7f-25e3-49b5-71bc-0bf5076a02ba.lsf100%  
+	    New File  		    3085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\698350cb-f6a9-52e2-c2e7-66e40d98c899.lsf100%  
+	    New File  		    1668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\6b6000e1-25c2-a1b1-566e-1d12f3a26bac.lsf100%  
+	    New File  		    8813	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\6d0ea1ed-ec97-8d1c-f2b5-794ba6c8c76c.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\7162bf2d-e1ef-6943-f96c-46f2f61a4efc.lsf100%  
+	    New File  		    3088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\74b6eef4-acfe-605b-057c-7400c71369ab.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\7592c2cb-6332-9623-2b6c-da1bae747c99.lsf100%  
+	    New File  		    1644	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\76964a04-8736-4406-77d9-7dd8d2f26388.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\7d00880f-f993-fd2b-dd5c-c9eec0f5238a.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\7d470c23-23ad-7994-3229-3b3d12522867.lsf100%  
+	    New File  		    3088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\7fc7080c-9f95-1815-859c-7c0109d6f8b4.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\80525833-060a-5ece-cfc6-f169057880fa.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\83cd59e4-b738-1802-c05b-3830601f7d64.lsf100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\86f6a5dd-9fc3-fbf6-d176-89d0a031200f.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\8844b35f-9f46-e7d9-0adc-1f7489ad5bd6.lsf100%  
+	    New File  		    6330	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\88daba9a-7190-e8d7-114b-3104f034cdf7.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\8ac30a02-9147-7087-fb94-f5964c0df37e.lsf100%  
+	    New File  		    2866	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\8e6b6187-4472-4e82-b965-2ac2b0fde721.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\90c3fffd-fac1-08ab-91c8-f481d663888d.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\90cbde7d-52c9-daea-953b-90f718d744c1.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9228e372-81e7-68aa-1c63-ab88fdeb14b4.lsf100%  
+	    New File  		    3088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\937958e2-0ff8-a792-af5a-a548c12a8871.lsf100%  
+	    New File  		    3085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9452b78c-de06-223e-aa82-8871af5c06b1.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9716b6d1-34b5-276d-c348-0c58568cd241.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\983de8b7-069a-71e7-cdc8-9f804cc44b1f.lsf100%  
+	    New File  		    1679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\98e7bc1a-e1ea-b80e-4f08-7dad95185f44.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9916c520-96c3-05ac-4ea3-7b3026d60ff1.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9c2dbec5-500d-1b52-6228-052d66a76151.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\9ef6b508-44ab-c8d6-71c1-0dfbc9651149.lsf100%  
+	    New File  		    1662	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\a05fa81e-1a46-6249-d3f9-edab81f5f1bf.lsf100%  
+	    New File  		    1668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\a07bcf8b-083a-0ad1-7c81-dacf3b1c8bfe.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\a9aca073-6865-0261-4185-7351339fae92.lsf100%  
+	    New File  		    3085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\ac12c9ec-94a3-6a4c-a018-13629c05bf60.lsf100%  
+	    New File  		    1650	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\af663dff-5460-ec70-df6a-0fc6ce26c61e.lsf100%  
+	    New File  		    2826	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\b0df8dc1-a425-4e1f-95c7-bde3085a1495.lsf100%  
+	    New File  		    3088	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\b1baf5a3-0e7f-67d5-bfbd-7e5e2a0f03bd.lsf100%  
+	    New File  		    1662	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\b1e84342-33ef-cf1a-df7d-0757abf4cf77.lsf100%  
+	    New File  		    1665	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\bbbb3a70-e7c3-a6fb-2a77-c8f7c48aa722.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\bd937834-5b1a-b332-1c09-3293ffc6e581.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\bda1749a-e13f-8b62-d337-867cabd93ba2.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\c12cbbc7-5e07-48bf-53f1-ddd5b08f011e.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\c236d6b5-c8cf-8841-b057-1fa55e968e06.lsf100%  
+	    New File  		    6335	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\c602efd7-02e2-8070-5fb9-f43d335f8753.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\c79d580c-c9df-8773-0280-688d1c401c67.lsf100%  
+	    New File  		    6334	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\c7d46de1-b076-b0cc-1b9c-f2f43d4e897f.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\ca194ffd-664c-00e4-e643-8f172b1f152b.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\cb6b3fbf-6d90-032a-3659-ed02ec6f1b4e.lsf100%  
+	    New File  		    6329	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\cb9cb385-8bf6-39f8-0c67-1331ca7821fb.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\ccd5d738-bb6b-8246-5958-7eb38ca8aab4.lsf100%  
+	    New File  		    1680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\ce9e94b6-a571-894f-efb7-5f7a01549809.lsf100%  
+	    New File  		    3085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\cf008cb8-b38f-ca17-7de7-ec32803e8aee.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d10c415f-3576-daeb-7d59-0608382faf6a.lsf100%  
+	    New File  		    2827	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d11a541d-1d9d-4471-bbd2-044b4050245e.lsf100%  
+	    New File  		    6329	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d45eed15-5410-e3dc-bf3d-e04266dfdc37.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d613491b-1d0e-b813-e469-54359b6086e5.lsf100%  
+	    New File  		    3089	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d6adc86c-3aa0-8f22-ef04-085f60934d41.lsf100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\d731e00d-db3f-b9ee-47f2-20f46c5f84aa.lsf100%  
+	    New File  		    2935	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\dc439fec-9021-4e49-98f9-3f2fb6176d53.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\de96485a-4f30-2437-6735-4205b7ff96b8.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\dfad175f-167b-7228-09b9-6307184df8e4.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\e06f5534-73ae-1f56-90bb-4a94ee1b417a.lsf100%  
+	    New File  		    2826	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\e10ed714-7a95-479d-85e2-0c92b84be7b8.lsf100%  
+	    New File  		    3084	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\e4e17807-a5d7-9a50-9520-e9b5c7bd4e85.lsf100%  
+	    New File  		    2887	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\e86b4af7-beee-1570-ce19-c5650bf5b854.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\eeadf229-77cf-1a19-cb6f-48bb38d9e571.lsf100%  
+	    New File  		    3083	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\f0e62ace-e429-7b63-ef46-13c7f7936281.lsf100%  
+	    New File  		    2828	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\fe3399fb-9620-41fe-b423-bf0ba6017391.lsf100%  
+	    New File  		    3085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\fee7f37e-36ee-b188-6fe0-ef22b46ea8c0.lsf100%  
+	    New File  		    3085	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Content\[PAK]_Seadragon_Assets\ff9ba67c-4f44-ce72-fe71-2dbbf31517ee.lsf100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\Icons\CCIconPearlAssetsAtlas.dds100%  
+	    New File  		    6308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMAmber.DDS100%  
+	    New File  		    6308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMBlue.DDS100%  
+	    New File  		    6308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMCyanViolet.DDS100%  
+	    New File  		    6308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMGrassGreen.DDS100%  
+	    New File  		    6308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMPink.DDS100%  
+	    New File  		    6308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMPinkPeach.DDS100%  
+	    New File  		    6308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMViolet.DDS100%  
+	    New File  		    6308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccColorRamp\DGB_EL_A_CRamp_Pearl_GMWhite.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\AccFrills\DGB_EL_A_Acc_Pearl_Frills_MSKA.DDS 56%  100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_CTLO.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_DB_DMSK.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_DMSK.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_HMVY.DDS100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_MSK.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\CrestTop\DGB_EL_A_Top_Pearl_FC_NM.DDS 84%  100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersCoral_BM.DDS 42%  100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersCoral_GM.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersCoral_MSK.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersCoral_NM.DDS 84%  100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersCoral_PM.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersDeer_BM.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersDeer_MSK.DDS100%  
+	    New File  		  21.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersDeer_NM.DDS100%  
+	    New File  		  10.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Horns\DGB_EL_A_Horns_Pearl_AntlersDeer_PM.DDS100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Jaw\DGB_EL_A_Jaw_Pearl_FB_CTLO.DDS100%  
+	    New File  		  699192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Jaw\DGB_EL_A_Jaw_Pearl_FB_DMSK.DDS100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Jaw\DGB_EL_A_Jaw_Pearl_FB_HMVY.DDS100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Jaw\DGB_EL_A_Jaw_Pearl_FB_MSK.DDS100%  
+	    New File  		  349680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Assets\Textures\AkELkA_DGB\DGB_A_NKD\DGB_A_Head_EL_Seadragon\Jaw\DGB_EL_A_Jaw_Pearl_FB_NM.DDS100%  
+	    New File  		  185064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Pearl\Tail\DGB_EL_FZ_Tail_Pearl_A.GR2100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Pearl\Tail\DGB_EL_FZ_Tail_Pearl_A.xml100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FB_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		     227	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FB_Top_Pearl_AntlersFrills.xml100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FC_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FD_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FE_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		  144348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FB_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FB_Jaw_Pearl_CoralRFrills.xml100%  
+	    New File  		  144344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FC_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FC_Jaw_Pearl_CoralRFrills.xml100%  
+	    New File  		  150004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FD_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FD_Jaw_Pearl_CoralRFrills.xml100%  
+	    New File  		  150004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FE_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FE_Jaw_Pearl_CoralRFrills.xml100%  
+	    New File  		  184712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Pearl\Tail\DGB_EL_MZ_Tail_Pearl_A.GR2100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Pearl\Tail\DGB_EL_MZ_Tail_Pearl_A.xml100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MD_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_ME_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MF_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MG_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		  144344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MD_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MD_Jaw_Pearl_CoralRFrills.xml100%  
+	    New File  		  150004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_ME_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_ME_Jaw_Pearl_CoralRFrills.xml100%  
+	    New File  		  150004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MF_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MF_Jaw_Pearl_CoralRFrills.xml100%  
+	    New File  		  150004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MG_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MG_Jaw_Pearl_CoralRFrills.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        33        33         1         0         0         0
+   Files :       196       196         0         0         0         0
+   Bytes :  228.93 m  228.93 m         0         0         0         0
+   Times :   0:00:06   0:00:01                       0:00:00   0:00:00
+
+
+   Speed :           214145605 Bytes/sec.
+   Speed :           12253.509 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:40:44 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 196 
+[DEBUG] Successfully copied files: 196 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7: 
+      Total files: 196 
+      Copied successfully: 196 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 to "Generated\Public"\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[DEBUG] Using destination: Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:40:46 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\
+     Dest : C:\GIT_BG3\MOD_REPOS\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  185064	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Pearl\Tail\DGB_EL_FZ_Tail_Pearl_A.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FB_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FC_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FD_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_EL_FE_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		  144348	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FB_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		  144344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FC_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		  150004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FD_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		  150004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_EL_FE_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		  184768	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Pearl\Tail\DGB_EL_MZ_Tail_Pearl_A.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MD_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_ME_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MF_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		   2.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\CrestTop\DGB_EL_MG_Top_Pearl_AntlersFrills.GR2100%  
+	    New File  		  144344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MD_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		  150004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_ME_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		  150004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MF_Jaw_Pearl_CoralRFrills.GR2100%  
+	    New File  		  150004	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Head_EL_Pearl\Jaw\DGB_EL_MG_Jaw_Pearl_CoralRFrills.GR2100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        17        17         1         0         0         0
+   Files :        18        18         0         0         0         0
+   Bytes :   18.04 m   18.04 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           151370240 Bytes/sec.
+   Speed :            8661.474 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:40:46 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 18 
+[DEBUG] Successfully copied files: 18 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7: 
+      Total files: 18 
+      Copied successfully: 18 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 196 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Seadragon_Assets_ccfff6aa-9e2d-dd90-b49a-53b30e6255c7 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 18 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 222 
+[SUMMARY] Total files successfully copied: 444 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
